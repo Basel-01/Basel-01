@@ -1,7 +1,7 @@
 <div>
   <h1>Hi, I'm Basel! 👋</h1>
   <p>JavaScript Full Stack Developer</p>
-  <p>Computer Systems Engineering at <a href="https://www.alazhar.edu.ps/arabic/">Al-Azhar University (AUG)</a></p>
+  <p>Graduated in Computer Systems Engineering from <a href="https://www.alazhar.edu.ps/arabic/">Al-Azhar University (AUG)</a></p>
   <p>Graduated from the 13th cohort of the <a href="https://gazaskygeeks.com/coders-career-accelerator-course/">Career Accelerator Program</a> at Gaza Sky Geeks (GSG)</p>
 </div>
 
